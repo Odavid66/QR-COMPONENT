@@ -18,7 +18,7 @@ main
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 270px;
+    width: 300px;
     height: fit-content;
     padding: 0.8rem;
     border-radius: 15px;
