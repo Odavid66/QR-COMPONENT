@@ -19,15 +19,14 @@ main
     flex-direction: column;
     align-items: center;
     width: 270px;
-    height: 55%;
+    height: fit-content;
     padding: 0.8rem;
     border-radius: 15px;
 }
 
 img
 {
-    width: 100%;
-    height: 65%; 
+    width: 100%; 
     border-radius: 15px;
 }
 
